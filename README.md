@@ -1,108 +1,32 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome KarlP17123,
+My Project 4 is about a news website where you can publish text with photos.
+![Skärmbild 2023-03-03 121111](https://user-images.githubusercontent.com/45360159/222710724-e9206335-332e-49b1-a2f5-a38f08eb3818.jpg)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Content:
+Added create article, delete article update article.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+The page consists of a start page with the published articles. the page's main menu has a file called account where you can click on and see your account with the articles and who has copied content.
 
-## Gitpod Reminders
+Facts about my job and facts that you must know have had problems with getting the python user log in log out functions to work but have taken a photo that I have made a python file of these user logins but did not get it to work with front end to add to.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+![Skärmbild 2023-03-03 121204](https://user-images.githubusercontent.com/45360159/222710766-3591fecd-ada7-4f9c-867b-57b2890ccd4b.jpg)
+![Skärmbild 2023-03-03 121247](https://user-images.githubusercontent.com/45360159/22271077![Skärmbild 2023-03-03 122032](https://user-images.githubusercontent.com/45360159/222710818-4b5f95d1-5408-4547-98fe-182137625a55.jpg)
+![Skärmbild 2023-03-03 122105](https://user-images.githubusercontent.com/45360159/222710819-d7536102-4604-4bc4-a64e-f8f48381a5ad.jpg)
+![Skärmbild 2023-03-03 122128](https://user-images.githubusercontent.com/45360159/222710822-f6517903-9dd3-4492-8ecd-d69ce3c4d712.jpg)
+![Skärmbild 2023-03-03 122147](https://user-images.githubusercontent.com/45360159/222710826-dae5086a-5fd8-486f-b0b0-515dbb64e5be.jpg)
+![Skärmbild 2023-03-03 122218](https://user-images.githubusercontent.com/45360159/222710833-4fecf9c3-be60-46e6-a332-9f40dabbe44e.jpg)
+![Skärmbild 2023-03-03 122242](https://user-images.githubusercontent.com/45360159/222710839-172c897e-8f79-4bcd-9f62-c5d1194fad24.jpg)
+![Skärmbild 2023-03-03 122447](https://user-images.githubusercontent.com/45360159/222710847-512b2b64-7d24-48b5-acff-0c7b315716a8.jpg)
+2-24a06351-7536-4e1f-b814-16500450a8b1.jpg)
+![Skärmbild 2023-03-03 121317](https://user-images.githubusercontent.com/45360159/222710776-085e9673-3b0a-4e9f-aed7-8f628df2add8.jpg)
+![Skärmbild 2023-03-03 121344](https://user-images.githubusercontent.com/45360159/222710781-38c78ca2-632e-4be9-a1fc-8792dd836e48.jpg)
+![Skärmbild 2023-03-03 121403](https://user-images.githubusercontent.com/45360159/222710784-fabf5311-cb63-4c74-9d82-b64d4ba9b9d5.jpg)
+![Skärmbild 2023-03-03 121430](https://user-images.githubusercontent.com/45360159/222710786-ad5b9936-694f-4394-99ca-f7156d59ba3b.jpg)
+![Skärmbild 2023-03-03 121623](https://user-images.githubusercontent.com/45360159/222710787-b93cb985-c0be-45d1-b7a3-be933bba08b0.jpg)
+![Skärmbild 2023-03-03 121457](https://user-images.githubusercontent.com/45360159/222710792-24faddb2-579f-4348-8247-dff43c71b2cd.jpg)
+![Skärmbild 2023-03-03 121641](https://user-images.githubusercontent.com/45360159/222710793-cbe2afea-dbb3-40a3-b4f5-54d2a96bdc70.jpg)
+![Skärmbild 2023-03-03 121527](https://user-images.githubusercontent.com/45360159/222710794-5aba0ca4-1fd9-4b67-8bc0-151dc12ff0ca.jpg)
+![Skärmbild 2023-03-03 121741](https://user-images.githubusercontent.com/45360159/222710798-4d21db28-de96-4267-8516-f8df076b3479.jpg)
+![knkl](https://user-images.githubusercontent.com/45360159/222710801-68703dbf-afe3-4bd4-9e57-36cdbf122194.jpg)
+![Skärmbild 2023-03-03 121817](https://user-images.githubusercontent.com/45360159/222710802-396ef76c-8113-4f39-9872-a931a04fc90b.jpg)
