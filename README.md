@@ -10,7 +10,7 @@ The page consists of a start page with the published articles. the page's main m
 Facts about my job and facts that you must know have had problems with getting the python user log in log out functions to work but have taken a photo that I have made a python file of these user logins but did not get it to work with front end to add to.
 
 
-![Skärmbild 2023-03-03 121204](https://use![Skärmbild 2023-03-03 124407](https://user-images.githubusercontent.com/45360159/222712285-2a42dbaf-d758-4b34-9931-487975d88cfa.jpg)
+
 r-images.githubusercontent.com/45360159/222710766-3591fecd-ada7-4f9c-867b-57b2890ccd4b.jpg)
 ![Skärmbild 2023-03-03 121247](https://user-images.githubusercontent.com/45360159/22271077![Skärmbild 2023-03-03 122032](https://user-images.githubusercontent.com/45360159/222710818-4b5f95d1-5408-4547-98fe-182137625a55.jpg)
 ![Skärmbild 2023-03-03 122105](https://user-images.githubusercontent.com/45360159/222710819-d7536102-4604-4bc4-a64e-f8f48381a5ad.jpg)
